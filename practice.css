@@ -1,0 +1,22 @@
+img{
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 40px gray;
+}
+a{
+    color: rgb(255, 0, 0);
+    text-decoration: underline solid purple;
+    font-size: 18px;
+    padding: 10px;
+}
+
+.hafsa{
+    border: 10px solid rgb(244, 155, 155);
+    background-color: lightseagreen;
+    margin: 40px;
+    width: 500px;
+    box-shadow: 10px 20px 5px gray;
+    border-radius: 10px;
+    
+
+}
